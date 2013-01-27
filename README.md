@@ -16,6 +16,8 @@
 
 ## Examples
 
+`xfakeevent` usage examples:
+
     xfakeevent -k Return 1 0
         Pressed Return key.
 
