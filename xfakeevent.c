@@ -1,6 +1,6 @@
 /*
  * xfakeevent - send fake button, motion and key events to the X
- * Copyright (C) 2013  Tomas Meszaros [exo at tty dot com]
+ * Copyright (C) 2013  Tomas Meszaros [exo at tty dot sk]
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
