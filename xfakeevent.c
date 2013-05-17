@@ -83,8 +83,6 @@ void fake_motion(int x, int y, unsigned long delay)
 void fake_key(const char *key, int is_press, unsigned long delay)
 {
 	XTestFakeKeyEvent(dpy, XKeysymToKeycode(dpy, XStringToKeysym(key)), is_press, delay);
-
 }
-
 
 /* vim: set ts=8 sts=8 sw=8 : */
