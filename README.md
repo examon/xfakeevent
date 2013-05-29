@@ -1,6 +1,6 @@
 ## Description
 
-`xfakeevent` is a easy way to send fake button, motion and key events to the X.
+`xfakeevent` is an easy way to send fake button, motion and key events to the X.
 
 ## Synopsis
 
